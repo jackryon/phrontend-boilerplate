@@ -19,7 +19,7 @@ const AppWrapper = styled.div`
 export default function App() {
   return (
     <AppWrapper>
-      <div>Advisors</div>
+      <div>All Advisors</div>
       <Switch>
         <Route exact path="/" component={AdvisorsPage} />
       </Switch>
