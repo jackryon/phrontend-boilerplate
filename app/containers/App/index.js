@@ -19,12 +19,9 @@ const AppWrapper = styled.div`
 export default function App() {
   return (
     <AppWrapper>
+      <div>Advisors</div>
       <Switch>
         <Route exact path="/" component={AdvisorsPage} />
-
-        { /* TODO: 1 */ }
-        <Route exact path="/advisor/:id" component={AdvisorDetailsPage} />
-
       </Switch>
       <GlobalStyle />
     </AppWrapper>
