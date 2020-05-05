@@ -1,27 +1,27 @@
 export const ADVISOR_DATA = [
   {
     id: 1,
-    name: 'Natalie Bruno',
-    avatar: 'https://cataas.com/cat?width=100&height=100',
+    name: 'Bella Y',
+    avatar: 'https://cataas.com/cat?type=sq&height=65&cache_buster=1',
   },
   {
     id: 2,
-    name: 'Jamar Chess',
-    avatar: 'https://cataas.com/cat?width=100&height=101',
+    name: 'Jamar C',
+    avatar: 'https://cataas.com/cat?type=sq&height=65&cache_buster=2',
   },
   {
     id: 3,
-    name: 'Elissa Federoff',
-    avatar: 'https://cataas.com/cat?width=101&height=100',
+    name: 'Elissa F',
+    avatar: 'https://cataas.com/cat?type=sq&height=65&cache_buster=3',
   },
   {
     id: 4,
-    name: 'Lennon McGowan',
-    avatar: 'https://cataas.com/cat?width=101&height=101',
+    name: 'Lennon M',
+    avatar: 'https://cataas.com/cat?type=sq&height=65&cache_buster=4',
   },
   {
     id: 5,
-    name: 'Jessica Flaherty',
-    avatar: 'https://cataas.com/cat?width=102&height=100',
+    name: 'Jessica F',
+    avatar: 'https://cataas.com/cat?type=sq&height=65&cache_buster=5',
   },
 ];
